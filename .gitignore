@@ -1,0 +1,10 @@
+# --- Streamlit Secrets (lokal behalten, nicht pushen)
+.streamlit/secrets.toml
+
+# --- Lokale Cache- und Embedding-Dateien ---
+*.pkl
+*.txt
+
+# --- Systemdateien ---
+.DS_Store
+__pycache__/
